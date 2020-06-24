@@ -1,0 +1,2 @@
+# Decision_Tree
+Given data with a series of labels and features, this program uses the decision tree concept to find the best way to identify labels given features. This code uses a dataset from the UCL Repository, which contains a variety of mushroom species, each with a label of Poisonous or Edible, and many different characteristics for each mushroom. Still, this program works on any dataset, as long as the data is in a .txt file, with each column representing a different attribute and the first column representing the labels.
